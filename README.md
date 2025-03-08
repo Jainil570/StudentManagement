@@ -54,6 +54,6 @@ The **Student Management System** is a robust, full-stack application that:
 - **Video Demonstration**
   - A video of the working model is available in the repository. Please check the Video Demo for a detailed walkthrough of the system in action.
 
-- **License**
+**License**
   - This project is licensed under the MIT License - see the LICENSE file for details.
 
